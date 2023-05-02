@@ -13,3 +13,5 @@ C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\obj\Debug\net6.0\
 C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
 C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\Pablo Santos\source\repos\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
